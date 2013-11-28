@@ -1,0 +1,1 @@
+WordPress plugin to setup a set of reusable QR codes that can be redirected to a desired url.
